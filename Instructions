@@ -1,0 +1,11 @@
+The () and "" used in this file are not part of the command they are a seperation between the diretions and the command.
+go to the wget file and click "raw"
+proceed to copy the link
+On linux type wget (the link)
+make sure to chmod 777 the file to give it permissions(chmod 777 openvpn-install.sh)
+Enter the command (bash openvpn-install.sh)
+My script should get you from there
+renember when you have finished creating your openvpn client you need to active the openvpn service!
+The command to activate openvpn is (service openvpn start)
+If you have same spare time follow @_czpy_ on instagram if this helped you.
+If any problem occurs during the set up I will be happy to assit if you direct message me.
